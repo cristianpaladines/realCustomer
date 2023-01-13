@@ -101,6 +101,9 @@
               "src/assets/js/app.js"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
