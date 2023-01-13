@@ -1,27 +1,32 @@
 # TheLastOne
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+Proyecto "cliente real" - Cristian Camilo Paladines Heredia
 
-## Development server
+## Bike Shop Mountain Sports
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The purpose of this project is to create a website for a real client, in this case it is a bicycle store located in the municipality of Anolaima, which is a bicycle store that offers a wide variety of products and services such as the sale of parts and spare parts for bicycles. , all kinds of maintenance are also offered and there is also a sale of accessories for bicycles and for people who practice this great sport.
 
-## Code scaffolding
+With this project we will seek to obtain more reach since the owner wants to continue expanding the territory of his store to the capital of Bogota and we both agreed that a web page for this business would provide greater reach, growth and recognition.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Project status
 
-## Build
+This project is in a state of construction since as work is being done on it, continuous improvement is being worked on by the client and their respective feedback, for this we will work on future updates to reach the final product.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## The project has been built with:
 
-## Running unit tests
+Angular : ^14.0.4
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Possible bugs and erros
 
-## Running end-to-end tests
+The page may have possible bugs and errors at the time of adding the products to the shopping cart and completing the purchase.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/112832288/212224679-6042ccf4-bb6d-4d21-8b96-0e338fb6a1bf.png)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+(the image shows how the shopping cart should work correctly)
+
+## Note
+
+It is expected to correct the errors and to be able to add more things to make the project more attractive both visually for the client and owner and also to improve the interaction and experience when using this page.
+
+## Author: Cristian Camilo Paladines
